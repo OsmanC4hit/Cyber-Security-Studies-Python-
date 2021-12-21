@@ -1,3 +1,4 @@
+__AUTHOR__ = "Osman Cahit Yüksel"
 import requests
 URL = input("Site: ")
 WordLists = input("Wordlists: ") 
