@@ -1,3 +1,4 @@
+__AUTHOR__ = "Osman Cahit Yüksel"
 import ftplib
 host = input("İp adres giriniz: ")
 def Login(HostName):
